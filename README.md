@@ -14,13 +14,14 @@
 ![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![Jupyter ](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) ![llama index](https://img.shields.io/badge/Llamaindex-000000.svg?&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visualstudio code-000000.svg?&style=for-the-badge) 
 
 ---
-### Work Experience
+### Awards
+* 
 
 ### Projects
 #### 🚀 Braillify 
 > **점자 번역 오픈소스 라이브러리**
 
-[![Braillify Repository](https://github-readme-stats.vercel.app/api/pin/?username=dev-five-git&repo=braillify&theme=radical)](https://github.com/dev-five-git/braillify)
+[![Braillify Repository](https://github.com/dev-five-git/braillify/blob/main/README.md)](https://github.com/dev-five-git/braillify)
 
 * **Key Contributions**:
     * **Test Code Optimization**: 포괄적인 테스트 코드 기여를 통한 라이브러리 성능 및 안정성 향상
@@ -28,10 +29,9 @@
 
 #### 🏠 집꾸 (Zip-Ggu)
 > **GPT API를 활용한 맞춤형 자취 컨설팅 웹서비스 (Front-end)**
-
+* **Description**: LLM 기반의 자취 공간 배치 및 인테리어 맞춤형 큐레이션 서비스
 [![Zip-Ggu FE Repository](https://github-readme-stats.vercel.app/api/pin/?username=house-making-node&repo=FRONT&theme=radical)](https://github.com/house-making-node/FRONT)
 
-* **Description**: LLM 기반의 자취 공간 배치 및 인테리어 맞춤형 큐레이션 서비스
 * **Tech Stack**: 
   ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=TailwindCSS&logoColor=white) ![OpenAI](https://img.shields.io/badge/GPT_API-412991?style=flat-square&logo=OpenAI&logoColor=white)
 * **Key Contributions**:
