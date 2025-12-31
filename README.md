@@ -3,7 +3,6 @@
 ## Hi there 👋
 
 ---
-### About ME
 
 
 ### 🦾 Skills
@@ -11,11 +10,12 @@
 ![Python](https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white) ![React](https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white) ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?&style=for-the-badge&logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white) 
 
 **🛠️ Infra and Tools**
-![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![Jupyter ](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) ![llama index](https://img.shields.io/badge/Llamaindex-000000.svg?&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visualstudio code-000000.svg?&style=for-the-badge) 
+![Amazon AWS](https://img.shields.io/badge/amazonaws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white) ![Jupyter ](https://img.shields.io/badge/jupyter-F37626.svg?&style=for-the-badge&logo=jupyter&logoColor=white) ![llama index](https://img.shields.io/badge/Llamaindex-000000.svg?&style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white)
 
 ---
 ### Awards
-* 
+* 2024.04 제8회 인공지능인문학 대학생 학술논문 경연대회 4위
+* 2024.05 뤼튼 테크놀로지 아이디어톤 4위 
 
 ### Projects
 #### 🚀 Braillify 
@@ -38,7 +38,8 @@
   * GPT API 연동을 통한 사용자 맞춤형 컨설팅 결과 인터페이스 구현
   * 반응형 디자인을 적용하여 모바일/데스크탑 최적화 UX 제공
   * 효율적인 상태 관리를 통한 대화형 인테리어 추천 흐름 설계
-### Contact
-- chae8246@gmail.com
-- 010 5192 2332
+### 📬 Contact
+
+* ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white) **Email**: [chae8246@gmail.com](mailto:chae8246@gmail.com)
+* ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white) **GitHub**: [https://github.com/Hayden-yoonji](https://github.com/Hayden-yoonji)
 
